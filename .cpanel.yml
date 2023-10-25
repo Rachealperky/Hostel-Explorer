@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/lasource/public_html/
+    - export DEPLOYPATH=/home/lasource/public_html/Hostel-Explorer
     - /bin/cp -R * $DEPLOYPATH
